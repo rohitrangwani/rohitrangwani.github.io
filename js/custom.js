@@ -1,8 +1,7 @@
-
 (function($) { 
 	"use strict";
 	
-	(function($) {
+(function($) {
 $(function() {
 jQuery('#loopedSlider').prepend("<a href='#' class='previous'>&lt;</a><a href='#' class='next'>&gt;</a>");
 	jQuery('#loopedSlider').loopedSlider({
@@ -123,29 +122,4 @@ $(window).load(function() {
 });
 
 
-
-
-
-//jQuery
-$(window).load(function() {    
-
-        var theWindow        = $(window),
-            $bg              = $(".bannerImg");
-            //aspectRatio      = $bg.width() / $bg.height();
-
-        function resizeBg() {
-                if ( theWindow.width() < theWindow.height() ) {
-                    $bg
-                        .removeClass()
-                        .addClass('bgheight');
-                } else {
-                    $bg
-                        .removeClass()
-                        .addClass('bgwidth');
-                }
-        }
-
-        theWindow.resize(resizeBg).trigger("resize");
-
-});
 }(jQuery));

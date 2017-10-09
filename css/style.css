@@ -173,29 +173,19 @@ header{
 	text-transform:none;
 }
 
-.bannerPart{
-	/*background:url(../images/1.jpg) no-repeat 0 0;*/
-	height:100%;
-	overflow:hidden;
-}
-
-.bgwidth { width: 100%; }
-.bgheight { height: 100%; }
-
 
 
 
 /*------------------------------------
 	3.1 Slide show background control
 --------------------------------------*/ 
-.bannerPart{
+.cb-slideshow{
 	background:#1b1f2b;
 }
-.bannerPart img{
+.cb-slideshow li{
 	opacity:0.2;
 	filter:alpha(opacity=20); /* For IE8 and earlier */
 }
-
 
 
 
@@ -813,9 +803,6 @@ span.hoverBox a{
 }
 
 span.hoverBox .smallIcon{
-	/*width:92px;
-	margin:0px auto;*/
-	
 	width: 94px;
 	margin: 0px auto;
 	position: absolute;
