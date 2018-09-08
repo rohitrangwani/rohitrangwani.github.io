@@ -5,7 +5,6 @@
 .cb-slideshow li:nth-child(1) span{background-image:url(../images/slideshow/5.jpg);}
 .cb-slideshow li:nth-child(2) span{background-image:url(../images/slideshow/6.jpg);-webkit-animation-delay:15s;-moz-animation-delay:15s;-o-animation-delay:15s;-ms-animation-delay:15s;animation-delay:15s;}
 .cb-slideshow li:nth-child(3) span{background-image:url(../images/slideshow/Back.jpg);-webkit-animation-delay:30s;-moz-animation-delay:30s;-o-animation-delay:30s;-ms-animation-delay:30s;animation-delay:30s;}
-.cb-slideshow li:nth-child(4) span{background-image:url(../images/slideshow/4.jpg);-webkit-animation-delay:40s;-moz-animation-delay:40s;-o-animation-delay:40s;-ms-animation-delay:40s;animation-delay:40s;}
 @-webkit-keyframes imageAnimation{0%{opacity:0;-webkit-animation-timing-function:ease-in;}
 8%{opacity:1;-webkit-animation-timing-function:ease-out;}
 42%{opacity:1}
