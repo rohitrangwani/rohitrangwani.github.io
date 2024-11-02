@@ -17,7 +17,7 @@ This poses the question: can we use subcortical regions such as the cerebellum f
 ## Sleep oscillations post-stroke
 
 ![Stroke EEG](../images/Stroke_EEG.svg)
-Guess which topographical EEG map corresponds to a healthy subject vs a stroke patient? and which side the stroke is on?
+*Guess which topographical EEG map corresponds to a healthy subject vs a stroke patient? and which side the stroke is on?*
 
 Sleep is known to promote recovery post-stroke. Recent rodent work ([Kim et al 2022](https://www.sciencedirect.com/science/article/pii/S2211124722001504)) showed that resurgence of physiologic spindles coupled to sleep slow oscillations(SOs) and a concomitant decrease in pathological delta(δ) waves is associated with sustained motor performance gains during stroke recovery. This work classified SO-nested spindles as restorative post-stroke and δ-wave-nested spindles as pathological. This led us to investigate sleep oscillations in human stroke patients. We found that stroke subjects had pronounced acute asymmetry of these sleep oscillations, with a dominance of SOs, δ-waves, spindles, and nested spindles in one hemisphere, compared to the healthy subjects. These results showed that δ-wave nested spindle and SO-nested spindle densities can serve as important biomarkers to track motor recovery post-stroke. 
 
