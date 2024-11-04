@@ -12,8 +12,8 @@ Abbasi, Aamir, **Rohit Rangwani**, Daniel W. Bowen, Andrew W. Fealy, Nathan P. D
  "Cortico-cerebellar coordination facilitates neuroprosthetic control." Science Advances 10, no. 15 (2024): eadm8246.
 [Link](https://www.science.org/doi/full/10.1126/sciadv.adm8246)
 
-**Rohit Rangwani** *, Simpson, Benjamin K. *, Aamir Abbasi, Jeffrey M. Chung, Chrystal M. Reed, and Tanuj Gulati. 
-"Disturbed laterality of non-rapid eye movement sleep oscillations in post-stroke human sleep: a pilot study." Frontiers in Neurology 14 (2023). (*co-first authors)
+**Rohit Rangwani**\*, Simpson, Benjamin K.\*, Aamir Abbasi, Jeffrey M. Chung, Chrystal M. Reed, and Tanuj Gulati. 
+"Disturbed laterality of non-rapid eye movement sleep oscillations in post-stroke human sleep: a pilot study." Frontiers in Neurology 14 (2023). (\*co-first authors)
 [Link](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2023.1243575/full)
 
 **Rohit Rangwani**, and Hangue Park.
