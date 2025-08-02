@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 **Rohit Rangwani**, Aamir Abbasi, and Tanuj Gulati.
- "Robust neuroprosthetic control from the cerebellum in the stroke brain". (under review) 
+"Effective cerebellar neuroprosthetic control after stroke." Cell Reports 44, no. 8 (2025).
+[Link](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00801-0)
  
 Abbasi, Aamir, **Rohit Rangwani**, Daniel W. Bowen, Andrew W. Fealy, Nathan P. Danielsen, and Tanuj Gulati.
  "Cortico-cerebellar coordination facilitates neuroprosthetic control." Science Advances 10, no. 15 (2024): eadm8246.
